@@ -23,7 +23,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  width:1020px;
+  width:100%;
   margin-left:2%;
   position:relative;
   background:#FFF;

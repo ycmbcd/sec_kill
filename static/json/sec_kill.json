@@ -1,0 +1,141 @@
+{
+	"ret": true,
+	"data": {
+		"banner_1": [
+			{
+				"id": "1",
+				"url": "#",
+				"img": "https://shopping.geocities.jp/vourvoir2/sec_kill/b1.jpg"
+			}
+		],
+		"banner_2": [
+			{
+				"id": "1",
+				"url": "https://shopping.geocities.jp/vourvoir2/",
+				"img": "https://shopping.geocities.jp/vourvoir2/sec_kill/b2.jpg"
+			}
+		],
+		"sec_kill": [
+			{
+				"id": "1",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/auto-a102-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_auto-a102-01",
+				"txt": "送料無料-「新品」ミニカーボンリアスポイラー リアウイングダミ 思わぬ効果（加速）が出るかもしれません",
+				"o_price": "925 円",
+				"price": "100 円",
+				"date": "2018-11-15",
+				"start_time": "20:00",
+                "end_time": "20:30",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "2",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/auto-a15-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_auto-a15-01",
+				"txt": "送料無料-「新品」静電気除去 夜間反射停止表示",
+				"o_price": "820 円",
+				"price": "100 円",
+				"date": "2018-11-15",
+				"start_time": "20:30",
+                "end_time": "21:00",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "3",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/auto-a18-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_auto-a18-01",
+				"txt": "送料無料-「新品」車アクセサリー 高級車風 ウインク排風ダミブラック 黒 両面テープ 簡単取付",
+				"o_price": "900 円",
+				"price": "200 円",
+				"date": "2018-11-15",
+				"start_time": "21:00",
+                "end_time": "21:30",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "4",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/outd-a9-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_outd-a9-01",
+				"txt": "送料無料-「新品」腹筋ローラー腹筋マシン 腹筋ローラー マット付き 腹筋 ダイエット",
+				"o_price": "1580 円",
+				"price": "500 円",
+				"date": "2018-11-15",
+				"start_time": "21:30",
+                "end_time": "22:00",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "5",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/auto-a23-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_auto-a23-01",
+				"txt": " 送料無料-「新品」サイドミラー自動車 左右セット 鏡 サイド補助ミラー 360",
+				"o_price": "700 円",
+				"price": "100 円",
+				"date": "2018-11-15",
+				"start_time": "22:00",
+                "end_time": "22:30",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "6",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/auto-a75-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_auto-a75-01",
+				"txt": "送料無料-「新品」車用 アロマオイル 車載対応 加湿器 小型 シガーソケット 芳香剤器 全4カラー",
+				"o_price": "1700 円",
+				"price": "500 円",
+				"date": "2018-11-15",
+				"start_time": "22:30",
+                "end_time": "23:00",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "7",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/ledtape-galaxy-60cm-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_ledtape-galaxy-60cm-01",
+				"txt": "送料無料-LEDテープ シーケンシャルウインカー機能付き流れるLEDシリコンタイプ 60cm 2本1セット",
+				"o_price": "3980 円",
+				"price": "1000 円",
+				"date": "2018-11-15",
+				"start_time": "23:00",
+                "end_time": "23:30",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+			,{
+				"id": "8",
+				"url": "https://store.shopping.yahoo.co.jp/vourvoir2/drrec-bm-03-01",
+				"img": "https://preview-image-shopping.yahoo.co.jp/YRT/i/n/vourvoir2_drrec-bm-03-01",
+				"txt": " 送料無料- バックミラー型 駐車監視 170度広角 1200万画素 ドライブレコーダー バックミラー 型同時録画 駐車監視 7インチ 1080P 170度広角",
+				"o_price": "6980 円",
+				"price": "3000 円",
+				"date": "2018-11-15",
+				"start_time": "23:30",
+                "end_time": "24:00",
+                "hh":0,
+                "mm":0,
+                "ss":0,
+                "xxx":0
+			}
+		]
+    }
+}
