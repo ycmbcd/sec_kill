@@ -81,8 +81,8 @@ import HomeBanner from "./HomeBanner";
                 return num.toString();
             },
             runStart() {
-                // axios.get('https://shopping.geocities.jp/vourvoir2/sec_kill/static/json/sec_kill.json')
-                axios.get("/static/json/sec_kill.json")
+                axios.get('https://www.rakuten.ne.jp/gold/ultrahikari/sec_kill/static/json/sec_kill.json')
+                // axios.get("/static/json/sec_kill.json")
                     .then(this.getJsonListSucc);
                 },getJsonListSucc(res) {
                     var result = res.data;
